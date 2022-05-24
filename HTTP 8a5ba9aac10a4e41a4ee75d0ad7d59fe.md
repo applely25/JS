@@ -121,4 +121,4 @@
         응답 메시지에 HTML이 담겨 있는데 이 HTML을 받아 브라우저가 화면에 렌더링함
         
     
-    ![HTTP_Response.png](HTTP%208a5ba9aac10a4e41a4ee75d0ad7d59fe/HTTP_Response.png)
+    ![HTTP_Response.png](HTTP%208a5ba9aac10a4e41a4ee75d0ad7d59fe/HTTP_Response.png) 
