@@ -59,8 +59,8 @@
 - **예시**
     
     ```jsx
-    GET https://velog.io/@surim014 HTTP/1.1								// 시작줄
-    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) ...			  // 헤더
+    GET https://velog.io/@surim014 HTTP/1.1						// 시작줄
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) ...	// 헤더
     Upgrade-Insecure-Requests: 1
     ```
     
@@ -96,8 +96,8 @@
 - **예시**
     
     ```jsx
-    HTTP/1.1 200 OK														// 시작줄
-    Connection: keep-alive												 // 헤더
+    HTTP/1.1 200 OK											// 시작줄
+    Connection: keep-alive									// 헤더
     Content-Encoding: gzip												 
     Content-Length: 35653
     Content-Type: text/html;
