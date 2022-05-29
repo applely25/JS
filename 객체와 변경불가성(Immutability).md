@@ -42,7 +42,7 @@
     console.log(user2.name); // Kim
     ```
     
-    ![immutability.png](%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8E%E1%85%A6%E1%84%8B%E1%85%AA%20%E1%84%87%E1%85%A7%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%E1%84%87%E1%85%AE%E1%86%AF%E1%84%80%E1%85%A1%E1%84%89%E1%85%A5%E1%86%BC(Immutability)%206c2b02f659464034b3e42a25e3965fc4/immutability.png)
+  ![immutability](https://user-images.githubusercontent.com/102589413/170867190-a978f31e-f77e-422a-b2dc-698c2d2789de.png)
     
 
 1. **불변 데이터 패턴(immutable data pattern)**
